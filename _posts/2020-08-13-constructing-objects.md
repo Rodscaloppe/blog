@@ -122,4 +122,4 @@ I really loved this solution, its nifty and useful and this didnt come to my min
 
 I know this is a really specific and weird problem to encounter, and some constraints of why this solution was used over other ways are not clear from the vague names and class designs (and possibly incomplete details) I provided. However, I really found the solution interesting and felt like sharing it.
 
-You can always share your thoughts on this by @'ing me on Twitter or LinkedIn (links are available in my author bio) or even this blog's [GitHub repo](http://github.com/mitesh1612/blog).
+You can always share your thoughts on this by @'ing me on Twitter or LinkedIn (links are available in my author bio) or even this blog's [GitHub repo](http://github.com/rodscaloppe/blog).
