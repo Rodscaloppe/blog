@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: An interesting problem I encountered while working and an equally interesting solution suggested to me. How to use the same code to create complex data structure of two different classes.
-categories: [C#, dictionaries, objects]
+categories: [dictionaries, objects]
 title: Constructing a complex dictionary of base and derived class using the same code
 image: images/2020-08-13-constructing-objects/hero.jpg
 comments: true

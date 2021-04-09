@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: Discover different types of tests and testing strategies.
-categories: [testing, python, unit-tests]
+categories: [testing, python]
 title: A Primer on Different Kinds of Tests
 image: images/2020-10-06-software-testing/hero.jpg
 comments: true
