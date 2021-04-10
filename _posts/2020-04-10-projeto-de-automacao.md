@@ -4,12 +4,13 @@ layout: post
 description: Existem diversos pontos para a validade da qualidade do projeto
 categories: [QA, teste, projeto]
 title:  Projeto de automação para qualidade do software
+image: images/logo.png
 comments: true
 ---
 
 # Projeto de automação para qualidade do software
 
-![Projeto](/images/2020-04-10-projeto-de-automacao/projeto_de_bdd.png)
+![](../images/2020-04-10-projeto-de-automacao/projeto_de_bdd.png)
 
 Existem diversos pontos para a validade da qualidade do projeto, o que mais se identifica com usuário é o BDD (Behavior Driven Development) Desenvolvimento Guiado a Comportamento, usando essa técnica podemos identificar falhas mais reais e são corrigidas instantaneamente, devido sua agilidade e forma de aplicar. 
 
@@ -59,7 +60,7 @@ Seguindo essas palavras chaves temos como exemplo;
 
 Do que usarmos validações demoradas como Excel, usando o BDD temos uma formatação mais clara e objetiva. São vários casos de teste dentro de um único arquivo (daquele contexto), isso ajuda no suporte e no final conseguimos rodar mais rápido. 
 
-![Plano](/images/2020-04-10-projeto-de-automacao/plano.png)
+![](../images/2020-04-10-projeto-de-automacao/plano.png)
 
 # Na **Pratica**
 
@@ -70,32 +71,32 @@ Depois da Planning, ja temos o entendimento do produto, seguimos com a construç
 - **Criando o cenário de teste usando Cucumber.**
 - Na imagem temos a estrutura de automação de testes seguindo com cenários de testes e em cada cenário tem os casos de testes. Dividindo em situações diferentes e por ordem.
 
-   ![Cenario](/images/2020-04-10-projeto-de-automacao/Cucumber.png)
+   ![](../images/2020-04-10-projeto-de-automacao/Cucumber.png)
 
 - Aqui temos um Gif mostrando os casos de testes.
 
-   ![casos_de_testes](/images/2020-04-10-projeto-de-automacao/casos_de_testes.gif)
+   ![](../images/2020-04-10-projeto-de-automacao/casos_de_testes.gif)
 
 - Mostrando mais casos de testes
 
-    ![](/images/2020-04-10-projeto-de-automacao/Mostrandomaiscasosdetestes.gif)
+    ![](../images/2020-04-10-projeto-de-automacao/Mostrandomaiscasosdetestes.gif)
 
 - **Criando automação para validação**
 - Aqui foi usado webdriverIO (uma ferramenta em javascript para automação de testes, utilizando API do selenium, sendo rápido e fácil). Na imagem temos a estrutura do webdriverIO para rodar os testes.
 
-    ![Projeto%20de%20automac%CC%A7a%CC%83o%20para%20qualidade%20do%20software%206cd1d1c1c5ab4d0eb3c8793b949282ed/Untitled%203.png](/images/2020-04-10-projeto-de-automacao/conf.WEBDRIVERIO.png)
+    ![](../images/2020-04-10-projeto-de-automacao/conf.WEBDRIVERIO.png)
 
 - Usando um padrão de projeto, ajuda a dar suporte nos testes. Usando PAGE OBJECTS, classificando cada elemento da pagina WEB.
 
-    ![](/images/2020-04-10-projeto-de-automacao/PageO.png)
+    ![](../images/2020-04-10-projeto-de-automacao/PageO.png)
 
 - Em steps, é onde escrito o código para rodar cada caso teste e sendo guiado pela feature.
 
-    ![](/images/2020-04-10-projeto-de-automacao/steps.gif)
+    ![](../images/2020-04-10-projeto-de-automacao/steps.gif)
 
 - No final temos o ALLURE, onde temos um dashbord construído em html, mostrando detalhadamente cada caso de teste, se passaram ou não.
 
-    ![](/images/2020-04-10-projeto-de-automacao/allure.gif)
+    ![](../images/2020-04-10-projeto-de-automacao/allure.gif)
 
 Isso tudo foi criando para uma plataforma de grande porte, sendo utilizado na parte WEB, APP e API.
 
