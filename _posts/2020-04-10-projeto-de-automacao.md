@@ -1,16 +1,14 @@
 ---
-toc: false
+toc: true
 layout: post
 description: Existem diversos pontos para a validade da qualidade do projeto
 categories: [QA, teste, projeto]
 title:  Projeto de automação para qualidade do software
-image: images/logo.png
-comments: true
 ---
 
 # Projeto de automação para qualidade do software
 
-![](../images/2020-04-10-projeto-de-automacao/projeto_de_bdd.png)
+![](/images/2020-04-10-projeto-de-automacao/projeto_de_bdd.png)
 
 Existem diversos pontos para a validade da qualidade do projeto, o que mais se identifica com usuário é o BDD (Behavior Driven Development) Desenvolvimento Guiado a Comportamento, usando essa técnica podemos identificar falhas mais reais e são corrigidas instantaneamente, devido sua agilidade e forma de aplicar. 
 
