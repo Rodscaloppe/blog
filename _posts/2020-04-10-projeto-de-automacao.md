@@ -82,7 +82,9 @@ Mostrando mais casos de testes
 **Criando automação para validação**
 Aqui foi usado webdriverIO (uma ferramenta em javascript para automação de testes, utilizando API do selenium, sendo rápido e fácil). Na imagem temos a estrutura do webdriverIO para rodar os testes.
 
-![](/images/2020-04-10-projeto-de-automacao/conf.WEBDRIVERIO.png)
+![]({{ site.baseurl }}/images/2020-04-10-projeto-de-automacao/conf.WEBDRIVERIO.png)
+
+
 
  Usando um padrão de projeto, ajuda a dar suporte nos testes. Usando PAGE OBJECTS, classificando cada elemento da pagina WEB.
 
