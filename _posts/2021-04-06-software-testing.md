@@ -4,7 +4,6 @@ layout: post
 description: Discover different types of tests and testing strategies.
 categories: [testing, python]
 title: A Primer on Different Kinds of Tests
-image: images/2020-10-06-software-testing/hero.jpg
 comments: true
 ---
 I haven't been a developer for too long (yet) to justify or even explain the importance of well written tests, especially in your CI system, but over my experience in recent times, I have seen great tests helping me catch a lot of future headaches. That being said, while developing a service end-to-end, I got to see the different kinds of tests and testing strategies and I thought why not "blog my journey" on testing. So buckle up for a fun ride, into the land of testing.
